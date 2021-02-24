@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guia4_Discusion</string>
+    <string name="nombre">Nombre</string>
+    <string name="horas">Horas trabajadas</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
