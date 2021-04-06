@@ -1,4 +1,4 @@
-package sv.edu.udb.guia05app;
+package sv.edu.udb.guia06app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        //Analisis punto 1
+        setContentView(R.layout.analisis_relative_layout);
+        //Analisis Punto 2
+        //setContentView(R.layout.analisis_constrain_layout);
+
     }
 }
