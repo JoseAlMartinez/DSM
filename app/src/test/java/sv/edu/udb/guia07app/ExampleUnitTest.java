@@ -1,4 +1,4 @@
-package sv.edu.udb.guia06app;
+package sv.edu.udb.guia07app;
 
 import org.junit.Test;
 

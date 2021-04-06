@@ -1,4 +1,4 @@
-package sv.edu.udb.guia06app;
+package sv.edu.udb.guia07app;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("sv.edu.udb.guia06app", appContext.getPackageName());
+        assertEquals("sv.edu.udb.guia07app", appContext.getPackageName());
     }
 }
